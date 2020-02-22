@@ -1,0 +1,243 @@
+pc_id,pc_name,ac_id,ac_name,Serial No. of Polling Station,Elec_male,Elec_Female,Elec_other,Elec_total,Votes_male,Votes_Female,vote_Other,Candidate 1,Candidate 2,Candidate 3,Candidate 4,Candidate 5,Candidate 6,Candidate 7,Candidate 8,Candidate 9,Unnamed: 10,Total Valid Votes,No. of Rejected Votes,NOTA,Total,No. of tendered votes
+3,Sambalpur,17,Sambalpur,nan,,,,,,,,nan,"Dr. Aswini 
+Kumar 
+Pujahari","Jaya 
+Narayan 
+Mishra",Dilip Singh,"Dr. 
+Raseswari 
+Panigrahi","Laxman 
+Kumar 
+Bhoi","Jayabrata 
+Dey","Jayashree 
+Mishra","Prabhas 
+Pruseth","Pragnya 
+Patnaik",nan,nan,nan,nan,nan
+3,Sambalpur,17,Sambalpur,1.0,,,,,,,,Mahatab Nagar - 1133,nan,284,10,304,1,7,4,10,5,758.0,0.0,14.0,772.0,1.0
+3,Sambalpur,17,Sambalpur,2.0,,,,,,,,Mahatab Nagar-284,nan,174,4,232,0,6,3,2,2,507.0,0.0,1.0,508.0,0.0
+3,Sambalpur,17,Sambalpur,3.0,,,,,,,,University Campus0,nan,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+3,Sambalpur,17,Sambalpur,4.0,,,,,,,,Golgunda -1,108,355,13,415,4,2,2,4,2,905.0,0.0,10.0,915.0,0.0
+3,Sambalpur,17,Sambalpur,5.0,,,,,,,,Golgunda-2,60,174,5,237,0,1,2,2,1,482.0,0.0,3.0,485.0,0.0
+3,Sambalpur,17,Sambalpur,6.0,,,,,,,,Post Office Colony - 1,90,267,5,251,0,3,4,2,2,624.0,0.0,6.0,630.0,0.0
+3,Sambalpur,17,Sambalpur,7.0,,,,,,,,Post Office Colony - 6,91,269,19,271,0,0,0,0,1,651.0,0.0,10.0,661.0,0.0
+3,Sambalpur,17,Sambalpur,8.0,,,,,,,,Post Office Colony - 2,114,283,39,289,3,4,2,3,2,739.0,0.0,12.0,751.0,0.0
+3,Sambalpur,17,Sambalpur,9.0,,,,,,,,Post Office Colony - 3,104,154,17,152,0,2,2,1,1,433.0,0.0,2.0,435.0,0.0
+3,Sambalpur,17,Sambalpur,10.0,,,,,,,,Post Office Colony - 4,73,230,2,339,1,2,1,5,1,654.0,0.0,7.0,661.0,0.0
+3,Sambalpur,17,Sambalpur,11.0,,,,,,,,nan,"Bishnu Mandir Pada - 1
+187",292,65,342,4,7,2,2,2,903.0,0.0,12.0,915.0,0.0
+3,Sambalpur,17,Sambalpur,12.0,,,,,,,,nan,"Bishnu Mandir Pada - 2
+90",269,14,315,1,4,0,2,1,696.0,0.0,9.0,705.0,0.0
+3,Sambalpur,17,Sambalpur,13.0,,,,,,,,Post Office Colony - 5,131,397,8,373,2,6,0,4,2,923.0,0.0,5.0,928.0,0.0
+3,Sambalpur,17,Sambalpur,14.0,,,,,,,,Post Office Colony - 7,59,300,9,181,1,1,0,3,1,555.0,0.0,2.0,557.0,0.0
+3,Sambalpur,17,Sambalpur,15.0,,,,,,,,Krushna Mandir Pada,77,121,11,187,2,0,1,1,1,401.0,0.0,3.0,404.0,0.0
+3,Sambalpur,17,Sambalpur,16.0,,,,,,,,nan,"Krushna Mandir Pada-2
+88",165,2,215,0,1,0,2,2,475.0,0.0,1.0,476.0,0.0
+3,Sambalpur,17,Sambalpur,17.0,,,,,,,,Sadeipali - 1,129,320,15,451,4,7,3,2,5,936.0,0.0,10.0,946.0,0.0
+3,Sambalpur,17,Sambalpur,18.0,,,,,,,,Sadeipali - 6,73,229,5,254,0,2,0,8,1,572.0,0.0,8.0,580.0,0.0
+3,Sambalpur,17,Sambalpur,19.0,,,,,,,,Sadeipali - 2,78,192,7,266,1,6,0,22,1,573.0,0.0,2.0,575.0,0.0
+3,Sambalpur,17,Sambalpur,20.0,,,,,,,,Sadeipali - 3,50,247,4,270,0,5,5,16,2,599.0,0.0,3.0,602.0,0.0
+3,Sambalpur,17,Sambalpur,21.0,,,,,,,,Sadeipali - 4,93,254,1,239,3,1,1,11,5,608.0,0.0,7.0,615.0,0.0
+3,Sambalpur,17,Sambalpur,22.0,,,,,,,,Sadeipali - 5,86,228,5,237,1,2,2,20,2,583.0,0.0,4.0,587.0,0.0
+3,Sambalpur,17,Sambalpur,23.0,,,,,,,,Gaudapali - 1,70,500,5,510,5,8,6,7,8,1119.0,0.0,17.0,1136.0,0.0
+3,Sambalpur,17,Sambalpur,24.0,,,,,,,,Gaudapali - 2,123,329,14,288,3,9,0,6,3,775.0,0.0,10.0,785.0,0.0
+3,Sambalpur,17,Sambalpur,25.0,,,,,,,,Gaudapali - 3,88,283,2,215,0,6,0,1,1,596.0,0.0,1.0,597.0,0.0
+3,Sambalpur,17,Sambalpur,26.0,,,,,,,,nan,"Pathan Bandh  Pada- 1
+77",153,11,232,0,1,0,2,1,477.0,0.0,1.0,478.0,0.0
+3,Sambalpur,17,Sambalpur,27.0,,,,,,,,nan,"Pathan Bandh Pada - 2
+72",132,3,319,0,8,0,2,0,536.0,0.0,3.0,539.0,0.0
+3,Sambalpur,17,Sambalpur,28.0,,,,,,,,nan,"Pathan Bandh Pada - 4
+63",131,4,297,1,8,0,2,3,509.0,0.0,9.0,518.0,0.0
+3,Sambalpur,17,Sambalpur,29.0,,,,,,,,nan,"Pathan Bandh Pada - 3
+33",73,3,181,0,4,0,3,0,297.0,0.0,1.0,298.0,0.0
+3,Sambalpur,17,Sambalpur,30.0,,,,,,,,Kirba - 1,98,296,10,423,0,4,3,6,5,845.0,0.0,18.0,863.0,0.0
+3,Sambalpur,17,Sambalpur,31.0,,,,,,,,Kirba - 2,77,246,10,260,1,5,0,3,1,603.0,0.0,3.0,606.0,0.0
+3,Sambalpur,17,Sambalpur,32.0,,,,,,,,Kirba -3,82,197,4,206,1,4,1,1,5,501.0,0.0,7.0,508.0,0.0
+3,Sambalpur,17,Sambalpur,33.0,,,,,,,,Falsakata-1,74,458,9,222,0,2,1,0,2,768.0,0.0,7.0,775.0,0.0
+3,Sambalpur,17,Sambalpur,34.0,,,,,,,,Falsakata-4,93,417,14,239,4,13,4,4,12,800.0,0.0,9.0,809.0,0.0
+3,Sambalpur,17,Sambalpur,35.0,,,,,,,,Falsakata-2,49,230,3,240,1,1,0,1,1,526.0,0.0,1.0,527.0,0.0
+3,Sambalpur,17,Sambalpur,36.0,,,,,,,,Falsakata-3,57,528,22,321,3,13,3,2,5,954.0,0.0,8.0,962.0,0.0
+3,Sambalpur,17,Sambalpur,37.0,,,,,,,,nan,"Durgamandir Chhak -1
+130",456,24,330,1,11,2,3,2,959.0,0.0,6.0,965.0,0.0
+3,Sambalpur,17,Sambalpur,38.0,,,,,,,,nan,"Durgamandir Chhak -3
+68",231,25,162,0,36,3,0,2,527.0,0.0,2.0,529.0,0.0
+3,Sambalpur,17,Sambalpur,39.0,,,,,,,,nan,"Durgamandir Chhak -2
+98",382,3,258,0,3,0,2,5,751.0,0.0,5.0,756.0,0.0
+3,Sambalpur,17,Sambalpur,40.0,,,,,,,,Rerolling Mill Colony,90,133,8,186,0,1,0,2,2,422.0,0.0,4.0,426.0,0.0
+3,Sambalpur,17,Sambalpur,41.0,,,,,,,,Hirakud-1,66,304,2,257,1,1,2,0,4,637.0,0.0,8.0,645.0,0.0
+3,Sambalpur,17,Sambalpur,42.0,,,,,,,,Hirakud-6,69,262,6,165,0,1,0,3,2,508.0,0.0,1.0,509.0,0.0
+3,Sambalpur,17,Sambalpur,43.0,,,,,,,,Hirakud-2,73,448,6,287,2,5,0,2,2,825.0,0.0,14.0,839.0,0.0
+3,Sambalpur,17,Sambalpur,44.0,,,,,,,,Hirakud-3,115,428,2,338,0,21,0,2,3,909.0,0.0,8.0,917.0,0.0
+3,Sambalpur,17,Sambalpur,45.0,,,,,,,,Hirakud-4,62,256,13,206,0,5,0,1,1,544.0,0.0,2.0,546.0,0.0
+3,Sambalpur,17,Sambalpur,46.0,,,,,,,,Hirakud-5,43,403,16,302,0,6,1,2,1,774.0,0.0,6.0,780.0,0.0
+3,Sambalpur,17,Sambalpur,47.0,,,,,,,,Jhankarpada-1 451,nan,121,25,264,1,9,1,2,2,876.0,0.0,5.0,881.0,0.0
+3,Sambalpur,17,Sambalpur,48.0,,,,,,,,Jhankarpada-3 207,nan,373,53,271,6,30,3,5,2,950.0,0.0,5.0,955.0,0.0
+3,Sambalpur,17,Sambalpur,49.0,,,,,,,,Jhankarpada-2 136,nan,434,8,282,2,4,0,4,3,873.0,0.0,4.0,877.0,0.0
+3,Sambalpur,17,Sambalpur,50.0,,,,,,,,Silipathar,146,424,4,222,3,4,6,7,6,822.0,0.0,24.0,846.0,0.0
+3,Sambalpur,17,Sambalpur,51.0,,,,,,,,Silipathar-2,55,402,3,233,5,57,3,2,2,762.0,0.0,2.0,764.0,0.0
+3,Sambalpur,17,Sambalpur,52.0,,,,,,,,Saplahara,91,578,12,373,7,7,6,11,9,1094.0,0.0,31.0,1125.0,0.0
+3,Sambalpur,17,Sambalpur,53.0,,,,,,,,Larpank-1,82,351,7,238,1,6,1,1,6,693.0,0.0,9.0,702.0,0.0
+3,Sambalpur,17,Sambalpur,54.0,,,,,,,,Larpank-2,46,347,9,139,2,4,0,1,1,549.0,0.0,7.0,556.0,0.0
+3,Sambalpur,17,Sambalpur,55.0,,,,,,,,Remed - 1,40,562,7,312,1,5,2,1,3,933.0,0.0,13.0,946.0,0.0
+3,Sambalpur,17,Sambalpur,56.0,,,,,,,,Remed - 3,21,472,5,243,1,3,2,0,4,751.0,0.0,1.0,752.0,0.0
+3,Sambalpur,17,Sambalpur,57.0,,,,,,,,Remed - 2,21,467,5,270,0,0,1,1,3,768.0,0.0,8.0,776.0,0.0
+3,Sambalpur,17,Sambalpur,58.0,,,,,,,,Durgapali - 1,64,412,10,333,3,16,3,2,1,844.0,0.0,6.0,850.0,0.0
+3,Sambalpur,17,Sambalpur,59.0,,,,,,,,Durgapali - 2,31,310,7,291,1,3,1,2,2,648.0,0.0,6.0,654.0,0.0
+3,Sambalpur,17,Sambalpur,60.0,,,,,,,,Durgapali - 3,51,275,3,240,6,9,6,8,4,602.0,0.0,6.0,608.0,0.0
+3,Sambalpur,17,Sambalpur,61.0,,,,,,,,Talbhattapada-156,nan,453,20,221,0,1,1,0,6,758.0,0.0,9.0,767.0,0.0
+3,Sambalpur,17,Sambalpur,62.0,,,,,,,,Talbhattapada-357,nan,514,32,249,1,5,8,2,8,876.0,0.0,9.0,885.0,0.0
+3,Sambalpur,17,Sambalpur,63.0,,,,,,,,Badabazar - 1,28,437,4,416,0,3,1,2,11,902.0,0.0,2.0,904.0,0.0
+3,Sambalpur,17,Sambalpur,64.0,,,,,,,,Badabazar - 2,30,520,58,430,1,4,3,4,7,1057.0,0.0,6.0,1063.0,0.0
+3,Sambalpur,17,Sambalpur,65.0,,,,,,,,Badabazar - 3,37,512,5,280,3,4,1,0,5,847.0,0.0,9.0,856.0,0.0
+3,Sambalpur,17,Sambalpur,nan,,,,,,,,nan,"Dr. Aswini 
+Kumar 
+Pujahari","Jaya 
+Narayan 
+Mishra",Dilip Singh,"Dr. 
+Raseswari 
+Panigrahi","Laxman 
+Kumar 
+Bhoi","Jayabrata 
+Dey","Jayashree 
+Mishra","Prabhas 
+Pruseth","Pragnya 
+Patnaik",nan,nan,nan,nan,nan
+3,Sambalpur,17,Sambalpur,66.0,,,,,,,,Badabazar - 7,29,249,4,250,0,1,0,2,0,535.0,0.0,4.0,539.0,0.0
+3,Sambalpur,17,Sambalpur,67.0,,,,,,,,Talbhattapada-255,nan,551,7,266,0,6,0,0,3,888.0,0.0,9.0,897.0,0.0
+3,Sambalpur,17,Sambalpur,68.0,,,,,,,,Badabazar - 4,30,509,5,329,1,39,2,2,3,920.0,0.0,5.0,925.0,1.0
+3,Sambalpur,17,Sambalpur,69.0,,,,,,,,Badabazar - 5,55,401,5,388,2,21,3,1,4,880.0,0.0,4.0,884.0,1.0
+3,Sambalpur,17,Sambalpur,70.0,,,,,,,,Badabazar - 6,20,324,6,182,1,8,3,4,3,551.0,0.0,4.0,555.0,0.0
+3,Sambalpur,17,Sambalpur,71.0,,,,,,,,Badabazar - 8,20,308,4,180,0,10,1,1,0,524.0,0.0,1.0,525.0,0.0
+3,Sambalpur,17,Sambalpur,72.0,,,,,,,,Khetrajpur - 1,12,473,1,191,2,3,1,0,2,685.0,0.0,3.0,688.0,0.0
+3,Sambalpur,17,Sambalpur,73.0,,,,,,,,Khetrajpur - 2,39,316,3,305,1,5,3,1,7,680.0,0.0,10.0,690.0,0.0
+3,Sambalpur,17,Sambalpur,74.0,,,,,,,,Daldalipada,13,240,3,127,0,1,0,0,5,389.0,0.0,5.0,394.0,0.0
+3,Sambalpur,17,Sambalpur,75.0,,,,,,,,Khetrajpur - 3,39,414,4,275,3,52,4,0,4,795.0,0.0,4.0,799.0,0.0
+3,Sambalpur,17,Sambalpur,76.0,,,,,,,,Khetrajpur - 5,25,363,12,186,0,35,1,1,9,632.0,0.0,2.0,634.0,0.0
+3,Sambalpur,17,Sambalpur,77.0,,,,,,,,Khetrajpur - 4,19,469,3,276,0,12,0,1,3,783.0,0.0,3.0,786.0,0.0
+3,Sambalpur,17,Sambalpur,78.0,,,,,,,,Bareipali - 1,73,479,120,338,2,2,6,2,5,1027.0,0.0,6.0,1033.0,0.0
+3,Sambalpur,17,Sambalpur,79.0,,,,,,,,Gopalapali - 1,25,383,1,247,0,0,0,2,3,661.0,0.0,9.0,670.0,0.0
+3,Sambalpur,17,Sambalpur,80.0,,,,,,,,Gopalapali -3,45,305,5,378,2,4,2,4,5,750.0,0.0,13.0,763.0,0.0
+3,Sambalpur,17,Sambalpur,81.0,,,,,,,,Gopalapali - 2,42,458,3,260,2,4,3,0,9,781.0,0.0,15.0,796.0,0.0
+3,Sambalpur,17,Sambalpur,82.0,,,,,,,,Baraipali - 2,58,477,8,263,1,7,5,6,5,830.0,0.0,14.0,844.0,0.0
+3,Sambalpur,17,Sambalpur,83.0,,,,,,,,Baraipali - 3,29,335,27,164,4,3,2,3,5,572.0,0.0,10.0,582.0,0.0
+3,Sambalpur,17,Sambalpur,84.0,,,,,,,,Baraipali - 5,26,499,7,162,1,1,1,1,1,699.0,0.0,6.0,705.0,0.0
+3,Sambalpur,17,Sambalpur,85.0,,,,,,,,Bareipali - 4,28,458,16,155,1,2,0,0,5,665.0,0.0,9.0,674.0,0.0
+3,Sambalpur,17,Sambalpur,86.0,,,,,,,,Baraipali - 6,32,444,14,175,1,8,5,9,5,693.0,0.0,27.0,720.0,0.0
+3,Sambalpur,17,Sambalpur,87.0,,,,,,,,Gopalamal - 1,44,345,6,257,1,17,3,0,5,678.0,0.0,6.0,684.0,0.0
+3,Sambalpur,17,Sambalpur,88.0,,,,,,,,Gopalamal -6,24,274,4,217,0,13,1,0,0,533.0,0.0,3.0,536.0,0.0
+3,Sambalpur,17,Sambalpur,89.0,,,,,,,,Gopalamal - 4,51,411,13,295,3,10,2,3,12,800.0,0.0,17.0,817.0,0.0
+3,Sambalpur,17,Sambalpur,90.0,,,,,,,,Gopalamal - 7,32,295,8,210,3,1,1,4,4,558.0,0.0,3.0,561.0,0.0
+3,Sambalpur,17,Sambalpur,91.0,,,,,,,,Gopalamal -6,41,404,10,275,1,11,4,3,5,754.0,0.0,6.0,760.0,0.0
+3,Sambalpur,17,Sambalpur,92.0,,,,,,,,Gopalamal - 2,46,311,5,285,0,3,1,0,4,655.0,0.0,5.0,660.0,0.0
+3,Sambalpur,17,Sambalpur,93.0,,,,,,,,Gopalamal - 3,32,257,3,234,0,2,0,0,1,529.0,0.0,5.0,534.0,0.0
+3,Sambalpur,17,Sambalpur,94.0,,,,,,,,Professor Colony - 1,61,278,5,352,4,5,0,1,6,712.0,0.0,8.0,720.0,0.0
+3,Sambalpur,17,Sambalpur,95.0,,,,,,,,Professor Colony -3,27,181,3,304,0,1,1,0,1,518.0,0.0,1.0,519.0,0.0
+3,Sambalpur,17,Sambalpur,96.0,,,,,,,,Professor Colony -4,12,119,1,151,0,0,0,0,2,285.0,0.0,1.0,286.0,0.0
+3,Sambalpur,17,Sambalpur,97.0,,,,,,,,Professor Colony - 2,49,275,3,506,2,13,4,7,4,863.0,0.0,11.0,874.0,0.0
+3,Sambalpur,17,Sambalpur,98.0,,,,,,,,Budharaja - 1,48,272,2,333,1,8,2,0,2,668.0,0.0,6.0,674.0,0.0
+3,Sambalpur,17,Sambalpur,99.0,,,,,,,,Budharaja - 2,81,311,13,375,1,6,2,3,5,797.0,0.0,6.0,803.0,0.0
+3,Sambalpur,17,Sambalpur,100.0,,,,,,,,Budharaja - 3,61,240,2,261,2,3,1,1,9,580.0,0.0,11.0,591.0,0.0
+3,Sambalpur,17,Sambalpur,101.0,,,,,,,,Budharaja - 4,44,270,2,265,0,3,1,0,6,591.0,0.0,7.0,598.0,0.0
+3,Sambalpur,17,Sambalpur,102.0,,,,,,,,Budharaja - 5,56,271,1,265,0,3,2,1,4,603.0,0.0,8.0,611.0,0.0
+3,Sambalpur,17,Sambalpur,103.0,,,,,,,,Deheripali - 1,63,347,9,245,1,9,4,2,8,688.0,0.0,12.0,700.0,0.0
+3,Sambalpur,17,Sambalpur,104.0,,,,,,,,Deheripali - 5,45,464,4,312,0,2,0,0,7,834.0,0.0,7.0,841.0,0.0
+3,Sambalpur,17,Sambalpur,105.0,,,,,,,,Deheripali - 2,55,262,0,318,1,4,2,0,8,650.0,0.0,2.0,652.0,0.0
+3,Sambalpur,17,Sambalpur,106.0,,,,,,,,Deheripali -4,40,287,0,295,0,5,1,3,7,638.0,0.0,5.0,643.0,0.0
+3,Sambalpur,17,Sambalpur,107.0,,,,,,,,Deheripali - 3,60,371,15,295,0,7,1,3,1,753.0,0.0,9.0,762.0,0.0
+3,Sambalpur,17,Sambalpur,108.0,,,,,,,,Saralakani - 1,108,459,5,241,1,8,3,0,5,830.0,0.0,6.0,836.0,0.0
+3,Sambalpur,17,Sambalpur,109.0,,,,,,,,Saralakani - 3,44,287,9,183,0,13,3,3,2,544.0,0.0,12.0,556.0,0.0
+3,Sambalpur,17,Sambalpur,110.0,,,,,,,,Saralakani - 2,71,284,13,275,4,24,1,3,9,684.0,0.0,8.0,692.0,0.0
+3,Sambalpur,17,Sambalpur,111.0,,,,,,,,Saralakani - 4,78,300,4,236,3,29,2,0,2,654.0,0.0,11.0,665.0,0.0
+3,Sambalpur,17,Sambalpur,112.0,,,,,,,,Sakshigopinath - 160,nan,358,10,300,7,47,3,0,4,789.0,0.0,6.0,795.0,0.0
+3,Sambalpur,17,Sambalpur,113.0,,,,,,,,Sakshigopinath - 255,nan,256,4,243,2,89,0,0,0,649.0,0.0,6.0,655.0,0.0
+3,Sambalpur,17,Sambalpur,114.0,,,,,,,,Sakshigopinath - 441,nan,340,5,220,2,77,0,2,3,690.0,0.0,4.0,694.0,0.0
+3,Sambalpur,17,Sambalpur,115.0,,,,,,,,Sakshigopinath -342,nan,282,0,267,0,70,2,1,10,674.0,0.0,2.0,676.0,0.0
+3,Sambalpur,17,Sambalpur,116.0,,,,,,,,Ashapali - 1,46,269,1,183,1,7,0,0,7,514.0,0.0,12.0,526.0,0.0
+3,Sambalpur,17,Sambalpur,117.0,,,,,,,,Ashapali - 1,57,224,5,271,0,5,1,3,2,568.0,0.0,3.0,571.0,0.0
+3,Sambalpur,17,Sambalpur,118.0,,,,,,,,Ashapali - 2,90,237,2,326,1,5,2,1,1,665.0,0.0,8.0,673.0,0.0
+3,Sambalpur,17,Sambalpur,119.0,,,,,,,,Ashapali - 3,93,336,6,296,2,7,1,5,3,749.0,0.0,15.0,764.0,0.0
+3,Sambalpur,17,Sambalpur,120.0,,,,,,,,Ashapali - 5,56,293,10,321,5,16,2,3,1,707.0,0.0,6.0,713.0,0.0
+3,Sambalpur,17,Sambalpur,121.0,,,,,,,,Ashapali - 4,78,289,12,324,0,15,3,3,6,730.0,0.0,25.0,755.0,0.0
+3,Sambalpur,17,Sambalpur,122.0,,,,,,,,Modipada - 1,40,327,8,425,2,4,1,2,14,823.0,0.0,9.0,832.0,0.0
+3,Sambalpur,17,Sambalpur,123.0,,,,,,,,Modipada - 2,37,309,4,325,1,5,2,0,6,689.0,0.0,9.0,698.0,0.0
+3,Sambalpur,17,Sambalpur,124.0,,,,,,,,Modipada - 3,41,344,27,286,3,9,3,2,3,718.0,0.0,5.0,723.0,0.0
+3,Sambalpur,17,Sambalpur,125.0,,,,,,,,Modipada - 4,26,281,4,387,0,4,1,1,3,707.0,0.0,5.0,712.0,0.0
+3,Sambalpur,17,Sambalpur,126.0,,,,,,,,Modipada - 5,28,252,1,321,2,4,2,1,6,617.0,0.0,9.0,626.0,0.0
+3,Sambalpur,17,Sambalpur,127.0,,,,,,,,Modipada - 6,31,251,4,245,3,6,4,2,5,551.0,0.0,3.0,554.0,0.0
+3,Sambalpur,17,Sambalpur,128.0,,,,,,,,Modipada - 8,20,342,1,287,0,10,0,4,1,665.0,0.0,5.0,670.0,0.0
+3,Sambalpur,17,Sambalpur,129.0,,,,,,,,Modipada - 7,28,414,2,344,2,11,1,0,1,803.0,0.0,4.0,807.0,0.0
+3,Sambalpur,17,Sambalpur,130.0,,,,,,,,Cheruapada - 1 26,nan,527,5,367,2,8,1,4,3,943.0,0.0,10.0,953.0,0.0
+3,Sambalpur,17,Sambalpur,131.0,,,,,,,,Cheruapada - 2 36,nan,326,7,313,1,7,2,0,2,694.0,0.0,6.0,700.0,0.0
+3,Sambalpur,17,Sambalpur,132.0,,,,,,,,Cheruapada - 4 20,nan,206,10,203,0,6,0,0,4,449.0,0.0,3.0,452.0,0.0
+3,Sambalpur,17,Sambalpur,133.0,,,,,,,,Cheruapada - 3 22,nan,269,2,302,3,8,2,0,4,612.0,0.0,13.0,625.0,0.0
+3,Sambalpur,17,Sambalpur,134.0,,,,,,,,Kunjel Pada - 1 22,nan,519,10,316,1,1,9,1,3,882.0,0.0,12.0,894.0,0.0
+3,Sambalpur,17,Sambalpur,135.0,,,,,,,,Kunjel Pada - 2 44,nan,329,2,335,0,1,1,0,5,717.0,0.0,6.0,723.0,0.0
+3,Sambalpur,17,Sambalpur,136.0,,,,,,,,Ambedkar Nagar-17,nan,100,191,158,0,3,3,2,1,465.0,0.0,4.0,469.0,0.0
+3,Sambalpur,17,Sambalpur,137.0,,,,,,,,Ambedkar Nagar-38,nan,86,170,118,0,0,3,1,1,387.0,0.0,6.0,393.0,0.0
+3,Sambalpur,17,Sambalpur,138.0,,,,,,,,Ambedkar Nagar-226,nan,308,50,454,0,5,0,2,3,848.0,0.0,8.0,856.0,1.0
+3,Sambalpur,17,Sambalpur,139.0,,,,,,,,Pattnaik Pada -127,nan,211,0,304,0,4,0,0,0,546.0,0.0,12.0,558.0,0.0
+3,Sambalpur,17,Sambalpur,nan,,,,,,,,nan,"Dr. Aswini 
+Kumar 
+Pujahari","Jaya 
+Narayan 
+Mishra",Dilip Singh,"Dr. 
+Raseswari 
+Panigrahi","Laxman 
+Kumar 
+Bhoi","Jayabrata 
+Dey","Jayashree 
+Mishra","Prabhas 
+Pruseth","Pragnya 
+Patnaik",nan,nan,nan,nan,nan
+3,Sambalpur,17,Sambalpur,140,,,,,,,,Pattnaik Pada -320,nan,198,2,242,1,2,1,2,3,471.0,0.0,5.0,476.0,0.0
+3,Sambalpur,17,Sambalpur,141,,,,,,,,Pattnaik Pada -236,nan,321,2,360,0,0,1,1,6,727.0,0.0,9.0,736.0,0.0
+3,Sambalpur,17,Sambalpur,142,,,,,,,,Gurupada - 1,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+3,Sambalpur,17,Sambalpur,143,,,,,,,,Gurupada - 2,34,254,5,396,1,2,3,2,8,705.0,0.0,6.0,711.0,0.0
+3,Sambalpur,17,Sambalpur,144,,,,,,,,Jhaduapada,48,419,0,344,1,2,2,0,5,821.0,0.0,2.0,823.0,0.0
+3,Sambalpur,17,Sambalpur,145,,,,,,,,Nandapada-1,11,233,4,138,1,2,0,0,0,389.0,0.0,9.0,398.0,0.0
+3,Sambalpur,17,Sambalpur,146,,,,,,,,Nandapada-2,32,415,0,274,1,4,2,1,0,729.0,0.0,6.0,735.0,0.0
+3,Sambalpur,17,Sambalpur,147,,,,,,,,Kansari Pada -1 20,nan,195,0,159,1,15,1,0,2,393.0,0.0,2.0,395.0,0.0
+3,Sambalpur,17,Sambalpur,148,,,,,,,,Kansari Pada -2 35,nan,362,1,232,1,9,0,0,2,642.0,0.0,2.0,644.0,0.0
+3,Sambalpur,17,Sambalpur,149,,,,,,,,Marwaripada,71,424,3,403,1,19,0,1,7,929.0,0.0,6.0,935.0,1.0
+3,Sambalpur,17,Sambalpur,150,,,,,,,,Daleipada-1,31,240,1,196,0,4,1,1,1,475.0,0.0,2.0,477.0,0.0
+3,Sambalpur,17,Sambalpur,151,,,,,,,,Daleipada-2,60,295,0,287,1,3,1,2,3,652.0,0.0,4.0,656.0,0.0
+3,Sambalpur,17,Sambalpur,152,,,,,,,,Peer Baba Chowk27,nan,349,2,242,0,5,0,1,3,629.0,0.0,1.0,630.0,0.0
+3,Sambalpur,17,Sambalpur,153,,,,,,,,Nua Pada - 1,53,251,3,288,2,7,5,0,2,611.0,0.0,5.0,616.0,0.0
+3,Sambalpur,17,Sambalpur,154,,,,,,,,Nua Pada - 2,18,304,4,254,1,40,0,2,3,626.0,0.0,7.0,633.0,0.0
+3,Sambalpur,17,Sambalpur,155,,,,,,,,Nua Pada - 3,60,391,5,432,0,7,4,4,1,904.0,0.0,6.0,910.0,0.0
+3,Sambalpur,17,Sambalpur,156,,,,,,,,Pension Pada - 1102,nan,45,13,312,0,26,0,0,0,498.0,0.0,3.0,501.0,0.0
+3,Sambalpur,17,Sambalpur,157,,,,,,,,Pension Pada - 260,nan,240,8,220,2,12,0,0,1,543.0,0.0,4.0,547.0,0.0
+3,Sambalpur,17,Sambalpur,158,,,,,,,,Pension Pada - 342,nan,292,70,269,0,19,3,1,6,702.0,0.0,2.0,704.0,0.0
+3,Sambalpur,17,Sambalpur,159,,,,,,,,Pension Pada - 653,nan,258,22,268,1,17,0,0,3,622.0,0.0,3.0,625.0,0.0
+3,Sambalpur,17,Sambalpur,160,,,,,,,,Pension Pada - 445,nan,49,12,162,0,7,0,1,3,279.0,0.0,1.0,280.0,0.0
+3,Sambalpur,17,Sambalpur,161,,,,,,,,V.S.S.Nagar - 1 49,nan,159,0,262,1,4,1,0,2,478.0,0.0,1.0,479.0,0.0
+3,Sambalpur,17,Sambalpur,162,,,,,,,,V.S.S.Nagar - 2 41,nan,266,4,270,1,1,1,0,2,586.0,0.0,3.0,589.0,0.0
+3,Sambalpur,17,Sambalpur,163,,,,,,,,Bhutapada - 1 128,nan,113,12,297,2,24,2,1,5,584.0,0.0,7.0,591.0,0.0
+3,Sambalpur,17,Sambalpur,164,,,,,,,,Bhutapada - 2 176,nan,15,6,462,0,50,1,0,1,711.0,0.0,2.0,713.0,0.0
+3,Sambalpur,17,Sambalpur,165,,,,,,,,Bhutapada - 3,50,216,10,256,1,3,1,1,2,540.0,0.0,4.0,544.0,0.0
+3,Sambalpur,17,Sambalpur,166,,,,,,,,Sunapali - 1,93,344,12,297,3,48,2,0,1,800.0,0.0,8.0,808.0,0.0
+3,Sambalpur,17,Sambalpur,167,,,,,,,,Sunapali - 2,145,103,5,533,3,33,0,1,2,825.0,0.0,2.0,827.0,0.0
+3,Sambalpur,17,Sambalpur,168,,,,,,,,Sunapali - 4,146,195,10,449,0,34,2,1,3,840.0,0.0,7.0,847.0,0.0
+3,Sambalpur,17,Sambalpur,169,,,,,,,,Sunapali - 3,86,244,2,265,2,20,0,2,3,624.0,0.0,3.0,627.0,0.0
+3,Sambalpur,17,Sambalpur,170,,,,,,,,Bhutapada - 4 138,nan,181,13,442,0,7,8,2,4,795.0,0.0,12.0,807.0,0.0
+3,Sambalpur,17,Sambalpur,171,,,,,,,,Bhutapada - 5 124,nan,75,3,395,0,11,0,1,1,610.0,0.0,12.0,622.0,0.0
+3,Sambalpur,17,Sambalpur,172,,,,,,,,Bhutapada - 6 125,nan,160,8,406,1,11,0,1,3,715.0,0.0,10.0,725.0,0.0
+3,Sambalpur,17,Sambalpur,173,,,,,,,,Charbhati-1,58,393,6,284,1,3,1,1,5,752.0,0.0,1.0,753.0,0.0
+3,Sambalpur,17,Sambalpur,174,,,,,,,,Charbhati-2,56,312,3,262,1,5,2,1,6,648.0,0.0,11.0,659.0,0.0
+3,Sambalpur,17,Sambalpur,175,,,,,,,,nan,"Commissioner Colony - 1
+114",291,37,393,4,64,2,1,3,909.0,0.0,5.0,914.0,0.0
+3,Sambalpur,17,Sambalpur,176,,,,,,,,nan,"Commissioner Colony - 3
+53",335,3,363,1,8,1,0,7,771.0,0.0,11.0,782.0,0.0
+3,Sambalpur,17,Sambalpur,177,,,,,,,,nan,"Commissioner Colony-2
+37",225,7,292,0,5,6,4,4,580.0,0.0,6.0,586.0,0.0
+3,Sambalpur,17,Sambalpur,178,,,,,,,,nan,"Commissioner Colony - 2
+31",149,2,177,1,14,2,1,0,377.0,0.0,4.0,381.0,0.0
+3,Sambalpur,17,Sambalpur,179,,,,,,,,Pension Pada - 580,nan,178,5,436,1,7,0,3,3,713.0,0.0,7.0,720.0,0.0
+3,Sambalpur,17,Sambalpur,180,,,,,,,,Gobindatala - 1 31,nan,300,2,319,0,4,0,0,3,659.0,0.0,5.0,664.0,0.0
+3,Sambalpur,17,Sambalpur,181,,,,,,,,Gobindatala - 2 55,nan,309,2,405,4,7,2,0,4,788.0,0.0,5.0,793.0,0.0
+3,Sambalpur,17,Sambalpur,182,,,,,,,,Gobindatala - 3 31,nan,265,3,305,0,4,0,1,2,611.0,0.0,3.0,614.0,0.0
+3,Sambalpur,17,Sambalpur,183,,,,,,,,Dhanupali - 1,58,280,12,299,0,0,1,1,4,655.0,0.0,3.0,658.0,0.0
+3,Sambalpur,17,Sambalpur,184,,,,,,,,Dhanupali -3,27,270,16,254,0,3,0,1,3,574.0,0.0,7.0,581.0,0.0
+3,Sambalpur,17,Sambalpur,185,,,,,,,,Dhanupali - 2,36,231,9,301,1,4,0,0,2,584.0,0.0,4.0,588.0,0.0
+3,Sambalpur,17,Sambalpur,186,,,,,,,,Dhanupali - 4,38,280,8,299,0,1,1,1,2,630.0,0.0,6.0,636.0,0.0
+3,Sambalpur,17,Sambalpur,187,,,,,,,,Bhatara - 1,32,314,2,250,0,1,3,2,4,608.0,0.0,8.0,616.0,0.0
+3,Sambalpur,17,Sambalpur,188,,,,,,,,Bhatara - 3,65,295,5,205,0,2,4,3,6,585.0,0.0,6.0,591.0,0.0
+3,Sambalpur,17,Sambalpur,189,,,,,,,,Bhatara - 2,37,417,10,261,2,6,4,1,6,744.0,0.0,10.0,754.0,0.0
